@@ -48,3 +48,4 @@
 
    2. stopPropagation():
       Event bubbling বা capturing থামিয়ে দেয়।মানে event আর parent element এর দিকে যাবে না।
+     
